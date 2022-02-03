@@ -1,6 +1,8 @@
 ### Olá 👋
 
-- 🌱 Estudando Java
+- 🌱 Estou estudando Java
+- 💬 Pergunte-me sobre... qualquer coisa! 😅
+- ⚡ Um fato curioso: Eu jogo Brawl Stars, haha. Meu ID: #22GQ92Q
 
 <!--
 **paiva01/paiva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
